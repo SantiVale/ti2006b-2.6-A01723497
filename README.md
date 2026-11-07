@@ -63,3 +63,23 @@ jupyter lab
 ```
 
 The GitHub Actions workflow runs the notebook on pushes and pull requests.
+
+## My project setup
+
+### Project question
+
+What simple patterns can be seen in the characteristics and statistics of different Pokémon species?
+
+### How to start
+
+To begin, open the file `notebooks/01-pokemon-go-analysis.ipynb`.
+
+The notebook already contains the steps for exploring the example data. For this activity, I only prepared the repository structure and did not complete the analysis yet.
+
+### Data source
+
+This template uses a small public dataset with Pokémon species and their statistics. It does not contain personal information, player accounts, locations, captures, or private game data.
+
+### Reflection
+
+This repository could be difficult for another student to use if the folders and starting point were not clear. To prevent that problem, I kept the required folder structure and added instructions explaining where to begin. The issue and commit history also help show the progress of the project.
