@@ -1,0 +1,6 @@
+control,resultado
+clave_diaria_unica,True
+clave_conciliacion_unica,True
+total_reporting_coincide,True
+sumas_internas_coinciden,True
+cobertura_plantas,True

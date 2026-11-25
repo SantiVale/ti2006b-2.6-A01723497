@@ -1,0 +1,1477 @@
+﻿archivo,hoja,columna,texto_observado_filas_1_a_15,filas_hoja,celdas_con_valor,celdas_vacias,formulas,formulas_sin_cache,tipos_cache
+Bitacora descargas 2026.xlsx,Altamira,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Altamira,B,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Altamira,C,FLUJO DE DESCARGA AL 31 DE OCT-2026 | DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Altamira,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Altamira,E,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Altamira,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,Altamira,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Altamira,H,DIFERENCIA | DIARIA | (m3),59,38,21,32,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Altamira,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,int=31 | str=7
+Bitacora descargas 2026.xlsx,Altamira,J,DIFERENCIA | DIARIA | (m3),59,38,21,33,0,int=34 | str=4
+Bitacora descargas 2026.xlsx,Altamira,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,Altamira,L,FLUJO | DE | SALIDA | (m3),59,41,18,4,0,datetime=1 | float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Altamira,M,DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Altamira,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,42,17,4,0,int=35 | str=7
+Bitacora descargas 2026.xlsx,Altamira,O,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Altamira,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Altamira,Q,FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=32 | str=5
+Bitacora descargas 2026.xlsx,Altamira,R,DIFERENCIA | DIARIA | (m3),59,38,21,34,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Altamira,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,40,19,3,0,int=33 | str=7
+Bitacora descargas 2026.xlsx,Altamira,T,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Altamira,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Altamira,V,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Altamira,W,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Altamira,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Altamira,Y,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Altamira,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Altamira,AA,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Altamira,AB,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Altamira,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Altamira,AD,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Altamira,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Altamira,AF,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Altamira,AG,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Altamira,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Altamira,AI,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Altamira,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Altamira,AK,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Altamira,AL,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Altamira,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Altamira,AN,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Altamira,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Altamira,AP,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Altamira,AQ,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Altamira,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Altamira,AS,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Altamira,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Altamira,AU,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Altamira,AV,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Altamira,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Altamira,AX,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Altamira,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Altamira,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,Altamira,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,Altamira,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,Altamira,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,Altamira,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Altamira,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,Altamira,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,Altamira,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,Altamira,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+Bitacora descargas 2026.xlsx,Apizaco,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Apizaco,B,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Apizaco,C,FLUJO DE DESCARGA AL 31 DE DIC-2025 | DIFERENCIA | DIARIA | (m3),59,40,19,35,0,int=35 | str=5
+Bitacora descargas 2026.xlsx,Apizaco,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Apizaco,E,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Apizaco,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,Apizaco,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Apizaco,H,DIFERENCIA | DIARIA | (m3),59,38,21,32,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Apizaco,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,int=31 | str=7
+Bitacora descargas 2026.xlsx,Apizaco,J,DIFERENCIA | DIARIA | (m3),59,38,21,33,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Apizaco,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,Apizaco,L,FLUJO | DE | SALIDA | (m3),59,41,18,4,0,datetime=1 | float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Apizaco,M,DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Apizaco,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,42,17,4,0,float=1 | int=34 | str=7
+Bitacora descargas 2026.xlsx,Apizaco,O,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Apizaco,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Apizaco,Q,FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=32 | str=5
+Bitacora descargas 2026.xlsx,Apizaco,R,DIFERENCIA | DIARIA | (m3),59,38,21,34,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Apizaco,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,40,19,3,0,float=1 | int=32 | str=7
+Bitacora descargas 2026.xlsx,Apizaco,T,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Apizaco,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Apizaco,V,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Apizaco,W,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Apizaco,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Apizaco,Y,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Apizaco,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Apizaco,AA,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Apizaco,AB,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Apizaco,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Apizaco,AD,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Apizaco,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Apizaco,AF,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Apizaco,AG,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Apizaco,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Apizaco,AI,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Apizaco,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Apizaco,AK,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Apizaco,AL,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Apizaco,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Apizaco,AN,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Apizaco,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Apizaco,AP,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Apizaco,AQ,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Apizaco,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Apizaco,AS,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Apizaco,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Apizaco,AU,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Apizaco,AV,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Apizaco,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Apizaco,AX,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Apizaco,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Apizaco,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,Apizaco,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,Apizaco,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,Apizaco,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,Apizaco,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Apizaco,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,Apizaco,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,Apizaco,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,Apizaco,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+Bitacora descargas 2026.xlsx,Cayaco,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Cayaco,B,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Cayaco,C,FLUJO DE DESCARGA AL 31 DE DIC-2025 | DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Cayaco,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Cayaco,E,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Cayaco,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,Cayaco,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Cayaco,H,DIFERENCIA | DIARIA | (m3),59,38,21,32,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Cayaco,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,int=31 | str=7
+Bitacora descargas 2026.xlsx,Cayaco,J,DIFERENCIA | DIARIA | (m3),59,38,21,33,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Cayaco,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,Cayaco,L,FLUJO | DE | SALIDA | (m3),59,41,18,4,0,datetime=1 | float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Cayaco,M,DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Cayaco,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,42,17,4,0,int=35 | str=7
+Bitacora descargas 2026.xlsx,Cayaco,O,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Cayaco,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Cayaco,Q,FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=32 | str=5
+Bitacora descargas 2026.xlsx,Cayaco,R,DIFERENCIA | DIARIA | (m3),59,38,21,34,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Cayaco,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,40,19,3,0,int=33 | str=7
+Bitacora descargas 2026.xlsx,Cayaco,T,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Cayaco,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Cayaco,V,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cayaco,W,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Cayaco,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Cayaco,Y,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Cayaco,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Cayaco,AA,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cayaco,AB,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cayaco,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Cayaco,AD,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Cayaco,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Cayaco,AF,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cayaco,AG,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Cayaco,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Cayaco,AI,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Cayaco,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Cayaco,AK,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cayaco,AL,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Cayaco,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Cayaco,AN,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Cayaco,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Cayaco,AP,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cayaco,AQ,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cayaco,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Cayaco,AS,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Cayaco,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Cayaco,AU,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cayaco,AV,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Cayaco,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Cayaco,AX,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Cayaco,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Cayaco,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,Cayaco,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,Cayaco,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,Cayaco,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,Cayaco,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Cayaco,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,Cayaco,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,Cayaco,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,Cayaco,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+Bitacora descargas 2026.xlsx,Celaya,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Celaya,B,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Celaya,C,FLUJO DE DESCARGA AL 31 DE DIC-2025 | DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Celaya,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Celaya,E,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Celaya,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,Celaya,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Celaya,H,DIFERENCIA | DIARIA | (m3),59,38,21,32,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Celaya,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Celaya,J,DIFERENCIA | DIARIA | (m3),59,38,21,33,0,float=2 | int=32 | str=4
+Bitacora descargas 2026.xlsx,Celaya,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,Celaya,L,FLUJO | DE | SALIDA | (m3),59,41,18,4,0,datetime=1 | float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Celaya,M,DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Celaya,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,42,17,4,0,float=1 | int=34 | str=7
+Bitacora descargas 2026.xlsx,Celaya,O,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Celaya,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Celaya,Q,FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=32 | str=5
+Bitacora descargas 2026.xlsx,Celaya,R,DIFERENCIA | DIARIA | (m3),59,38,21,34,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Celaya,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,40,19,3,0,float=1 | int=32 | str=7
+Bitacora descargas 2026.xlsx,Celaya,T,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Celaya,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Celaya,V,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Celaya,W,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Celaya,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Celaya,Y,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Celaya,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Celaya,AA,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Celaya,AB,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Celaya,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Celaya,AD,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Celaya,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Celaya,AF,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Celaya,AG,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Celaya,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Celaya,AI,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Celaya,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Celaya,AK,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Celaya,AL,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Celaya,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Celaya,AN,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Celaya,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Celaya,AP,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Celaya,AQ,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Celaya,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Celaya,AS,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Celaya,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Celaya,AU,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Celaya,AV,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Celaya,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Celaya,AX,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Celaya,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Celaya,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,Celaya,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,Celaya,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,Celaya,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,Celaya,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Celaya,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,Celaya,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,Celaya,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,Celaya,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+Bitacora descargas 2026.xlsx,Cd. Victoria,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Cd. Victoria,B,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cd. Victoria,C,FLUJO DE DESCARGA AL 31 DE DIC-2025 | DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Cd. Victoria,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Cd. Victoria,E,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Cd. Victoria,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,Cd. Victoria,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Cd. Victoria,H,DIFERENCIA | DIARIA | (m3),59,38,21,32,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Cd. Victoria,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,int=31 | str=7
+Bitacora descargas 2026.xlsx,Cd. Victoria,J,DIFERENCIA | DIARIA | (m3),59,38,21,33,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Cd. Victoria,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,Cd. Victoria,L,FLUJO | DE | SALIDA | (m3),59,36,23,4,0,datetime=1 | float=1 | int=29 | str=5
+Bitacora descargas 2026.xlsx,Cd. Victoria,M,DIFERENCIA | DIARIA | (m3),59,35,24,35,5,float=1 | int=29 | str=5
+Bitacora descargas 2026.xlsx,Cd. Victoria,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,37,22,4,0,int=30 | str=7
+Bitacora descargas 2026.xlsx,Cd. Victoria,O,DIFERENCIA | DIARIA | (m3),59,35,24,36,5,int=31 | str=4
+Bitacora descargas 2026.xlsx,Cd. Victoria,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Cd. Victoria,Q,FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=32 | str=5
+Bitacora descargas 2026.xlsx,Cd. Victoria,R,DIFERENCIA | DIARIA | (m3),59,38,21,34,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Cd. Victoria,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,40,19,3,0,int=33 | str=7
+Bitacora descargas 2026.xlsx,Cd. Victoria,T,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Cd. Victoria,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Cd. Victoria,V,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cd. Victoria,W,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Cd. Victoria,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Cd. Victoria,Y,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Cd. Victoria,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Cd. Victoria,AA,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cd. Victoria,AB,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cd. Victoria,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Cd. Victoria,AD,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Cd. Victoria,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Cd. Victoria,AF,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cd. Victoria,AG,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Cd. Victoria,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Cd. Victoria,AI,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Cd. Victoria,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Cd. Victoria,AK,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cd. Victoria,AL,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Cd. Victoria,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Cd. Victoria,AN,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Cd. Victoria,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Cd. Victoria,AP,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cd. Victoria,AQ,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cd. Victoria,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Cd. Victoria,AS,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Cd. Victoria,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Cd. Victoria,AU,FLUJO | DE | SALIDA | (m3),59,35,24,3,0,datetime=1 | float=1 | int=28 | str=5
+Bitacora descargas 2026.xlsx,Cd. Victoria,AV,DIFERENCIA | DIARIA | (m3),59,34,25,35,5,float=1 | int=29 | str=4
+Bitacora descargas 2026.xlsx,Cd. Victoria,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,36,23,3,0,int=29 | str=7
+Bitacora descargas 2026.xlsx,Cd. Victoria,AX,DIFERENCIA | DIARIA | (m3),59,35,24,36,5,int=31 | str=4
+Bitacora descargas 2026.xlsx,Cd. Victoria,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Cd. Victoria,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,Cd. Victoria,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,Cd. Victoria,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,Cd. Victoria,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,Cd. Victoria,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Cd. Victoria,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,Cd. Victoria,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,Cd. Victoria,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,Cd. Victoria,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+Bitacora descargas 2026.xlsx,Coatepec,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Coatepec,B,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Coatepec,C,FLUJO DE DESCARGA AL 31 DE DIC-2025 | DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Coatepec,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Coatepec,E,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Coatepec,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,Coatepec,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Coatepec,H,DIFERENCIA | DIARIA | (m3),59,38,21,32,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Coatepec,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,int=31 | str=7
+Bitacora descargas 2026.xlsx,Coatepec,J,DIFERENCIA | DIARIA | (m3),59,38,21,33,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Coatepec,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,Coatepec,L,FLUJO | DE | SALIDA | (m3),59,41,18,4,0,datetime=1 | float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Coatepec,M,DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Coatepec,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,42,17,4,0,int=35 | str=7
+Bitacora descargas 2026.xlsx,Coatepec,O,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Coatepec,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Coatepec,Q,FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=32 | str=5
+Bitacora descargas 2026.xlsx,Coatepec,R,DIFERENCIA | DIARIA | (m3),59,38,21,34,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Coatepec,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,40,19,3,0,int=33 | str=7
+Bitacora descargas 2026.xlsx,Coatepec,T,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Coatepec,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Coatepec,V,FLUJO | DE | SALIDA | (m3),59,37,22,3,0,datetime=1 | float=1 | int=30 | str=5
+Bitacora descargas 2026.xlsx,Coatepec,W,DIFERENCIA | DIARIA | (m3),59,36,23,35,3,float=1 | int=31 | str=4
+Bitacora descargas 2026.xlsx,Coatepec,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,int=31 | str=7
+Bitacora descargas 2026.xlsx,Coatepec,Y,DIFERENCIA | DIARIA | (m3),59,37,22,36,3,int=33 | str=4
+Bitacora descargas 2026.xlsx,Coatepec,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Coatepec,AA,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Coatepec,AB,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Coatepec,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Coatepec,AD,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Coatepec,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Coatepec,AF,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Coatepec,AG,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Coatepec,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Coatepec,AI,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Coatepec,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Coatepec,AK,FLUJO | DE | SALIDA | (m3),59,35,24,3,0,datetime=1 | float=1 | int=28 | str=5
+Bitacora descargas 2026.xlsx,Coatepec,AL,DIFERENCIA | DIARIA | (m3),59,34,25,35,5,float=1 | int=29 | str=4
+Bitacora descargas 2026.xlsx,Coatepec,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,36,23,3,0,int=29 | str=7
+Bitacora descargas 2026.xlsx,Coatepec,AN,DIFERENCIA | DIARIA | (m3),59,35,24,36,5,int=31 | str=4
+Bitacora descargas 2026.xlsx,Coatepec,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Coatepec,AP,FLUJO | DE | SALIDA | (m3),59,36,23,4,0,datetime=1 | float=1 | int=29 | str=5
+Bitacora descargas 2026.xlsx,Coatepec,AQ,DIFERENCIA | DIARIA | (m3),59,35,24,34,4,float=1 | int=29 | str=5
+Bitacora descargas 2026.xlsx,Coatepec,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,37,22,4,0,int=30 | str=7
+Bitacora descargas 2026.xlsx,Coatepec,AS,DIFERENCIA | DIARIA | (m3),59,35,24,35,4,int=31 | str=4
+Bitacora descargas 2026.xlsx,Coatepec,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Coatepec,AU,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Coatepec,AV,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Coatepec,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Coatepec,AX,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Coatepec,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Coatepec,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,Coatepec,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,Coatepec,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,Coatepec,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,Coatepec,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Coatepec,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,Coatepec,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,Coatepec,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,Coatepec,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+Bitacora descargas 2026.xlsx,Cuautitlán,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Cuautitlán,B,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cuautitlán,C,FLUJO DE DESCARGA AL 31 DE DIC-2025 | DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Cuautitlán,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Cuautitlán,E,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Cuautitlán,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,Cuautitlán,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Cuautitlán,H,DIFERENCIA | DIARIA | (m3),59,38,21,32,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Cuautitlán,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,int=31 | str=7
+Bitacora descargas 2026.xlsx,Cuautitlán,J,DIFERENCIA | DIARIA | (m3),59,38,21,33,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Cuautitlán,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,Cuautitlán,L,FLUJO | DE | SALIDA | (m3),59,41,18,4,0,datetime=1 | float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Cuautitlán,M,DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Cuautitlán,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,42,17,4,0,int=35 | str=7
+Bitacora descargas 2026.xlsx,Cuautitlán,O,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Cuautitlán,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Cuautitlán,Q,FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=32 | str=5
+Bitacora descargas 2026.xlsx,Cuautitlán,R,DIFERENCIA | DIARIA | (m3),59,38,21,34,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Cuautitlán,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,40,19,3,0,int=33 | str=7
+Bitacora descargas 2026.xlsx,Cuautitlán,T,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Cuautitlán,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Cuautitlán,V,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cuautitlán,W,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Cuautitlán,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Cuautitlán,Y,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Cuautitlán,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Cuautitlán,AA,FLUJO | DE | SALIDA | (m3),59,38,21,4,0,datetime=1 | float=1 | int=31 | str=5
+Bitacora descargas 2026.xlsx,Cuautitlán,AB,DIFERENCIA | DIARIA | (m3),59,37,22,34,2,float=1 | int=31 | str=5
+Bitacora descargas 2026.xlsx,Cuautitlán,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,4,0,int=32 | str=7
+Bitacora descargas 2026.xlsx,Cuautitlán,AD,DIFERENCIA | DIARIA | (m3),59,37,22,35,2,int=33 | str=4
+Bitacora descargas 2026.xlsx,Cuautitlán,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Cuautitlán,AF,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cuautitlán,AG,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Cuautitlán,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Cuautitlán,AI,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Cuautitlán,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Cuautitlán,AK,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cuautitlán,AL,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Cuautitlán,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Cuautitlán,AN,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Cuautitlán,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Cuautitlán,AP,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cuautitlán,AQ,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cuautitlán,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Cuautitlán,AS,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Cuautitlán,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Cuautitlán,AU,FLUJO | DE | SALIDA | (m3),59,36,23,3,0,datetime=1 | float=1 | int=29 | str=5
+Bitacora descargas 2026.xlsx,Cuautitlán,AV,DIFERENCIA | DIARIA | (m3),59,35,24,35,4,float=1 | int=30 | str=4
+Bitacora descargas 2026.xlsx,Cuautitlán,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,37,22,3,0,int=30 | str=7
+Bitacora descargas 2026.xlsx,Cuautitlán,AX,DIFERENCIA | DIARIA | (m3),59,36,23,36,4,int=32 | str=4
+Bitacora descargas 2026.xlsx,Cuautitlán,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Cuautitlán,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,Cuautitlán,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,Cuautitlán,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,Cuautitlán,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,Cuautitlán,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Cuautitlán,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,Cuautitlán,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,Cuautitlán,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,Cuautitlán,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+Bitacora descargas 2026.xlsx,Cuernavaca,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Cuernavaca,B,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cuernavaca,C,FLUJO DE DESCARGA AL 31 DE DIC-2025 | DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Cuernavaca,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Cuernavaca,E,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Cuernavaca,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,Cuernavaca,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Cuernavaca,H,DIFERENCIA | DIARIA | (m3),59,38,21,32,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Cuernavaca,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Cuernavaca,J,DIFERENCIA | DIARIA | (m3),59,38,21,33,0,float=2 | int=32 | str=4
+Bitacora descargas 2026.xlsx,Cuernavaca,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,Cuernavaca,L,FLUJO | DE | SALIDA | (m3),59,41,18,4,0,datetime=1 | float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Cuernavaca,M,DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Cuernavaca,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,42,17,4,0,float=1 | int=34 | str=7
+Bitacora descargas 2026.xlsx,Cuernavaca,O,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Cuernavaca,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Cuernavaca,Q,FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=32 | str=5
+Bitacora descargas 2026.xlsx,Cuernavaca,R,DIFERENCIA | DIARIA | (m3),59,38,21,34,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Cuernavaca,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,40,19,3,0,float=1 | int=32 | str=7
+Bitacora descargas 2026.xlsx,Cuernavaca,T,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Cuernavaca,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Cuernavaca,V,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cuernavaca,W,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Cuernavaca,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Cuernavaca,Y,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Cuernavaca,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Cuernavaca,AA,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cuernavaca,AB,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,int=34 | str=5
+Bitacora descargas 2026.xlsx,Cuernavaca,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Cuernavaca,AD,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Cuernavaca,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Cuernavaca,AF,FLUJO | DE | SALIDA | (m3),59,36,23,3,0,datetime=1 | float=1 | int=29 | str=5
+Bitacora descargas 2026.xlsx,Cuernavaca,AG,DIFERENCIA | DIARIA | (m3),59,35,24,35,4,float=1 | int=30 | str=4
+Bitacora descargas 2026.xlsx,Cuernavaca,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,37,22,3,0,float=1 | int=29 | str=7
+Bitacora descargas 2026.xlsx,Cuernavaca,AI,DIFERENCIA | DIARIA | (m3),59,36,23,36,4,float=1 | int=31 | str=4
+Bitacora descargas 2026.xlsx,Cuernavaca,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Cuernavaca,AK,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cuernavaca,AL,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Cuernavaca,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Cuernavaca,AN,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Cuernavaca,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Cuernavaca,AP,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cuernavaca,AQ,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cuernavaca,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Cuernavaca,AS,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Cuernavaca,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Cuernavaca,AU,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Cuernavaca,AV,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Cuernavaca,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Cuernavaca,AX,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Cuernavaca,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Cuernavaca,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,Cuernavaca,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,Cuernavaca,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,Cuernavaca,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,Cuernavaca,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Cuernavaca,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,Cuernavaca,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,Cuernavaca,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,Cuernavaca,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+Bitacora descargas 2026.xlsx,Ixtacomitán,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Ixtacomitán,B,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Ixtacomitán,C,FLUJO DE DESCARGA AL 31 DE DIC-2025 | DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Ixtacomitán,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Ixtacomitán,E,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Ixtacomitán,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,Ixtacomitán,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Ixtacomitán,H,DIFERENCIA | DIARIA | (m3),59,38,21,32,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Ixtacomitán,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,int=31 | str=7
+Bitacora descargas 2026.xlsx,Ixtacomitán,J,DIFERENCIA | DIARIA | (m3),59,38,21,33,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Ixtacomitán,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,Ixtacomitán,L,FLUJO | DE | SALIDA | (m3),59,41,18,4,0,datetime=1 | float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Ixtacomitán,M,DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Ixtacomitán,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,42,17,4,0,int=35 | str=7
+Bitacora descargas 2026.xlsx,Ixtacomitán,O,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Ixtacomitán,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Ixtacomitán,Q,FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=32 | str=5
+Bitacora descargas 2026.xlsx,Ixtacomitán,R,DIFERENCIA | DIARIA | (m3),59,38,21,34,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Ixtacomitán,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,40,19,3,0,int=33 | str=7
+Bitacora descargas 2026.xlsx,Ixtacomitán,T,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Ixtacomitán,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Ixtacomitán,V,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Ixtacomitán,W,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Ixtacomitán,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Ixtacomitán,Y,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Ixtacomitán,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Ixtacomitán,AA,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Ixtacomitán,AB,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Ixtacomitán,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Ixtacomitán,AD,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Ixtacomitán,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Ixtacomitán,AF,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Ixtacomitán,AG,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Ixtacomitán,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Ixtacomitán,AI,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Ixtacomitán,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Ixtacomitán,AK,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Ixtacomitán,AL,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Ixtacomitán,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Ixtacomitán,AN,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Ixtacomitán,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Ixtacomitán,AP,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Ixtacomitán,AQ,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Ixtacomitán,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Ixtacomitán,AS,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Ixtacomitán,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Ixtacomitán,AU,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Ixtacomitán,AV,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Ixtacomitán,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Ixtacomitán,AX,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Ixtacomitán,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Ixtacomitán,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,Ixtacomitán,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,Ixtacomitán,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,Ixtacomitán,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,Ixtacomitán,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Ixtacomitán,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,Ixtacomitán,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,Ixtacomitán,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,Ixtacomitán,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+Bitacora descargas 2026.xlsx,León,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,León,B,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,León,C,FLUJO DE DESCARGA AL 31 DE DIC-2025 | DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,León,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,León,E,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,León,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,León,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,León,H,DIFERENCIA | DIARIA | (m3),59,38,21,32,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,León,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,León,J,DIFERENCIA | DIARIA | (m3),59,38,21,33,0,float=2 | int=32 | str=4
+Bitacora descargas 2026.xlsx,León,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,León,L,FLUJO | DE | SALIDA | (m3),59,41,18,4,0,datetime=1 | float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,León,M,DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,León,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,42,17,4,0,float=1 | int=34 | str=7
+Bitacora descargas 2026.xlsx,León,O,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,León,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,León,Q,FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=32 | str=5
+Bitacora descargas 2026.xlsx,León,R,DIFERENCIA | DIARIA | (m3),59,38,21,34,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,León,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,40,19,3,0,float=1 | int=32 | str=7
+Bitacora descargas 2026.xlsx,León,T,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,León,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,León,V,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,León,W,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,León,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,León,Y,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,León,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,León,AA,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,León,AB,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,León,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,León,AD,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,León,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,León,AF,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,León,AG,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,León,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,León,AI,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,León,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,León,AK,FLUJO | DE | SALIDA | (m3),59,36,23,3,0,datetime=1 | float=1 | int=29 | str=5
+Bitacora descargas 2026.xlsx,León,AL,DIFERENCIA | DIARIA | (m3),59,35,24,35,4,float=1 | int=30 | str=4
+Bitacora descargas 2026.xlsx,León,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,37,22,3,0,float=1 | int=29 | str=7
+Bitacora descargas 2026.xlsx,León,AN,DIFERENCIA | DIARIA | (m3),59,36,23,36,4,float=1 | int=31 | str=4
+Bitacora descargas 2026.xlsx,León,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,León,AP,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,León,AQ,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,León,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,León,AS,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,León,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,León,AU,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,León,AV,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,León,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,León,AX,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,León,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,León,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,León,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,León,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,León,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,León,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,León,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,León,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,León,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,León,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+Bitacora descargas 2026.xlsx,Morelia,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Morelia,B,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Morelia,C,FLUJO DE DESCARGA AL 31 DE DIC-2025 | DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Morelia,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Morelia,E,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Morelia,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,Morelia,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Morelia,H,DIFERENCIA | DIARIA | (m3),59,38,21,32,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Morelia,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Morelia,J,DIFERENCIA | DIARIA | (m3),59,38,21,33,0,float=2 | int=32 | str=4
+Bitacora descargas 2026.xlsx,Morelia,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,Morelia,L,FLUJO | DE | SALIDA | (m3),59,41,18,4,0,datetime=1 | float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Morelia,M,DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Morelia,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,42,17,4,0,float=1 | int=34 | str=7
+Bitacora descargas 2026.xlsx,Morelia,O,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Morelia,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Morelia,Q,FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Morelia,R,DIFERENCIA | DIARIA | (m3),59,38,21,34,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Morelia,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,40,19,3,0,float=1 | int=32 | str=7
+Bitacora descargas 2026.xlsx,Morelia,T,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Morelia,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Morelia,V,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Morelia,W,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Morelia,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Morelia,Y,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Morelia,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Morelia,AA,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Morelia,AB,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Morelia,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Morelia,AD,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Morelia,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Morelia,AF,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Morelia,AG,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Morelia,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Morelia,AI,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Morelia,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Morelia,AK,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Morelia,AL,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Morelia,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Morelia,AN,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Morelia,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Morelia,AP,FLUJO | DE | SALIDA | (m3),59,37,22,4,0,datetime=1 | float=1 | int=30 | str=5
+Bitacora descargas 2026.xlsx,Morelia,AQ,DIFERENCIA | DIARIA | (m3),59,36,23,34,3,int=31 | str=5
+Bitacora descargas 2026.xlsx,Morelia,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,4,0,float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Morelia,AS,DIFERENCIA | DIARIA | (m3),59,36,23,35,3,float=1 | int=31 | str=4
+Bitacora descargas 2026.xlsx,Morelia,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Morelia,AU,FLUJO | DE | SALIDA | (m3),59,38,21,3,0,datetime=1 | float=1 | int=31 | str=5
+Bitacora descargas 2026.xlsx,Morelia,AV,DIFERENCIA | DIARIA | (m3),59,37,22,35,2,float=1 | int=32 | str=4
+Bitacora descargas 2026.xlsx,Morelia,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,float=1 | int=31 | str=7
+Bitacora descargas 2026.xlsx,Morelia,AX,DIFERENCIA | DIARIA | (m3),59,38,21,36,2,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Morelia,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Morelia,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,Morelia,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,Morelia,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,Morelia,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,Morelia,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Morelia,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,Morelia,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,Morelia,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,Morelia,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+Bitacora descargas 2026.xlsx,Ojuelos,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Ojuelos,B,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Ojuelos,C,FLUJO DE DESCARGA AL 31 DE DIC-2025 | DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Ojuelos,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Ojuelos,E,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Ojuelos,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,Ojuelos,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Ojuelos,H,DIFERENCIA | DIARIA | (m3),59,38,21,32,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Ojuelos,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Ojuelos,J,DIFERENCIA | DIARIA | (m3),59,38,21,33,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Ojuelos,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,Ojuelos,L,FLUJO | DE | SALIDA | (m3),59,41,18,4,0,datetime=1 | float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Ojuelos,M,DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Ojuelos,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,42,17,4,0,float=1 | int=34 | str=7
+Bitacora descargas 2026.xlsx,Ojuelos,O,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Ojuelos,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Ojuelos,Q,FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=32 | str=5
+Bitacora descargas 2026.xlsx,Ojuelos,R,DIFERENCIA | DIARIA | (m3),59,38,21,34,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Ojuelos,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,40,19,3,0,int=33 | str=7
+Bitacora descargas 2026.xlsx,Ojuelos,T,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Ojuelos,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Ojuelos,V,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Ojuelos,W,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Ojuelos,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Ojuelos,Y,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Ojuelos,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Ojuelos,AA,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Ojuelos,AB,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Ojuelos,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Ojuelos,AD,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Ojuelos,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Ojuelos,AF,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Ojuelos,AG,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Ojuelos,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Ojuelos,AI,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Ojuelos,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Ojuelos,AK,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Ojuelos,AL,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Ojuelos,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Ojuelos,AN,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Ojuelos,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Ojuelos,AP,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Ojuelos,AQ,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Ojuelos,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Ojuelos,AS,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Ojuelos,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Ojuelos,AU,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Ojuelos,AV,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Ojuelos,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Ojuelos,AX,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Ojuelos,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Ojuelos,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,Ojuelos,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,Ojuelos,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,Ojuelos,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,Ojuelos,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Ojuelos,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,Ojuelos,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,Ojuelos,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,Ojuelos,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+Bitacora descargas 2026.xlsx,Pacífico,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Pacífico,B,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Pacífico,C,FLUJO DE DESCARGA AL 31 DE DIC-2025 | DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Pacífico,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Pacífico,E,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Pacífico,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,Pacífico,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,35,24,3,0,datetime=1 | float=1 | int=26 | str=7
+Bitacora descargas 2026.xlsx,Pacífico,H,DIFERENCIA | DIARIA | (m3),59,34,25,32,4,float=1 | int=29 | str=4
+Bitacora descargas 2026.xlsx,Pacífico,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,34,25,3,0,int=27 | str=7
+Bitacora descargas 2026.xlsx,Pacífico,J,DIFERENCIA | DIARIA | (m3),59,34,25,33,4,float=1 | int=29 | str=4
+Bitacora descargas 2026.xlsx,Pacífico,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,Pacífico,L,FLUJO | DE | SALIDA | (m3),59,41,18,4,0,datetime=1 | float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Pacífico,M,DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Pacífico,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,42,17,4,0,int=35 | str=7
+Bitacora descargas 2026.xlsx,Pacífico,O,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Pacífico,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Pacífico,Q,FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=32 | str=5
+Bitacora descargas 2026.xlsx,Pacífico,R,DIFERENCIA | DIARIA | (m3),59,38,21,34,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Pacífico,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,40,19,3,0,int=33 | str=7
+Bitacora descargas 2026.xlsx,Pacífico,T,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Pacífico,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Pacífico,V,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Pacífico,W,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Pacífico,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Pacífico,Y,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Pacífico,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Pacífico,AA,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Pacífico,AB,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Pacífico,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Pacífico,AD,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Pacífico,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Pacífico,AF,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Pacífico,AG,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Pacífico,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Pacífico,AI,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Pacífico,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Pacífico,AK,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Pacífico,AL,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Pacífico,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Pacífico,AN,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Pacífico,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Pacífico,AP,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Pacífico,AQ,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Pacífico,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Pacífico,AS,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Pacífico,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Pacífico,AU,FLUJO | DE | SALIDA | (m3),59,35,24,3,0,datetime=1 | float=1 | int=28 | str=5
+Bitacora descargas 2026.xlsx,Pacífico,AV,DIFERENCIA | DIARIA | (m3),59,34,25,35,5,float=1 | int=29 | str=4
+Bitacora descargas 2026.xlsx,Pacífico,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,36,23,3,0,int=29 | str=7
+Bitacora descargas 2026.xlsx,Pacífico,AX,DIFERENCIA | DIARIA | (m3),59,35,24,36,5,int=31 | str=4
+Bitacora descargas 2026.xlsx,Pacífico,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Pacífico,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,Pacífico,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,Pacífico,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,Pacífico,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,Pacífico,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Pacífico,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,Pacífico,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,Pacífico,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,Pacífico,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+Bitacora descargas 2026.xlsx,PozaRica,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,PozaRica,B,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,PozaRica,C,FLUJO DE DESCARGA AL 31 DE DIC-2025 | DIFERENCIA | DIARIA | (m3),59,40,19,35,0,int=35 | str=5
+Bitacora descargas 2026.xlsx,PozaRica,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,PozaRica,E,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,PozaRica,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,PozaRica,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,PozaRica,H,DIFERENCIA | DIARIA | (m3),59,38,21,32,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,PozaRica,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,int=31 | str=7
+Bitacora descargas 2026.xlsx,PozaRica,J,DIFERENCIA | DIARIA | (m3),59,38,21,33,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,PozaRica,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,PozaRica,L,FLUJO | DE | SALIDA | (m3),59,41,18,4,0,datetime=1 | float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,PozaRica,M,DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,PozaRica,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,42,17,4,0,int=35 | str=7
+Bitacora descargas 2026.xlsx,PozaRica,O,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,PozaRica,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,PozaRica,Q,FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,PozaRica,R,DIFERENCIA | DIARIA | (m3),59,38,21,34,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,PozaRica,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,40,19,3,0,int=33 | str=7
+Bitacora descargas 2026.xlsx,PozaRica,T,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,PozaRica,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,PozaRica,V,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,PozaRica,W,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,PozaRica,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,PozaRica,Y,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,PozaRica,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,PozaRica,AA,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,PozaRica,AB,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,PozaRica,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,PozaRica,AD,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,PozaRica,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,PozaRica,AF,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,PozaRica,AG,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,PozaRica,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,PozaRica,AI,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,PozaRica,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,PozaRica,AK,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,PozaRica,AL,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,PozaRica,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,PozaRica,AN,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,PozaRica,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,PozaRica,AP,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,PozaRica,AQ,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,PozaRica,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,PozaRica,AS,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,PozaRica,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,PozaRica,AU,FLUJO | DE | SALIDA | (m3),59,37,22,3,0,datetime=1 | float=1 | int=30 | str=5
+Bitacora descargas 2026.xlsx,PozaRica,AV,DIFERENCIA | DIARIA | (m3),59,36,23,35,3,float=1 | int=31 | str=4
+Bitacora descargas 2026.xlsx,PozaRica,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,int=31 | str=7
+Bitacora descargas 2026.xlsx,PozaRica,AX,DIFERENCIA | DIARIA | (m3),59,37,22,36,3,int=33 | str=4
+Bitacora descargas 2026.xlsx,PozaRica,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,PozaRica,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,PozaRica,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,PozaRica,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,PozaRica,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,PozaRica,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,PozaRica,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,PozaRica,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,PozaRica,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,PozaRica,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+Bitacora descargas 2026.xlsx,Querétaro,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Querétaro,B,FLUJO | DE | SALIDA | (m3),59,36,23,3,0,datetime=1 | float=1 | int=29 | str=5
+Bitacora descargas 2026.xlsx,Querétaro,C,FLUJO DE DESCARGA AL 31 DE DIC-2025 | DIFERENCIA | DIARIA | (m3),59,36,23,35,4,float=1 | int=30 | str=5
+Bitacora descargas 2026.xlsx,Querétaro,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,37,22,3,0,int=30 | str=7
+Bitacora descargas 2026.xlsx,Querétaro,E,DIFERENCIA | DIARIA | (m3),59,36,23,36,4,float=1 | int=31 | str=4
+Bitacora descargas 2026.xlsx,Querétaro,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,Querétaro,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Querétaro,H,DIFERENCIA | DIARIA | (m3),59,38,21,32,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Querétaro,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Querétaro,J,DIFERENCIA | DIARIA | (m3),59,38,21,33,0,float=2 | int=32 | str=4
+Bitacora descargas 2026.xlsx,Querétaro,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,Querétaro,L,FLUJO | DE | SALIDA | (m3),59,41,18,4,0,datetime=1 | float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Querétaro,M,DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Querétaro,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,42,17,4,0,float=1 | int=34 | str=7
+Bitacora descargas 2026.xlsx,Querétaro,O,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Querétaro,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Querétaro,Q,FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=32 | str=5
+Bitacora descargas 2026.xlsx,Querétaro,R,DIFERENCIA | DIARIA | (m3),59,38,21,34,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Querétaro,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,40,19,3,0,int=33 | str=7
+Bitacora descargas 2026.xlsx,Querétaro,T,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Querétaro,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Querétaro,V,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Querétaro,W,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Querétaro,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Querétaro,Y,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Querétaro,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Querétaro,AA,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Querétaro,AB,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Querétaro,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Querétaro,AD,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Querétaro,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Querétaro,AF,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Querétaro,AG,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Querétaro,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Querétaro,AI,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Querétaro,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Querétaro,AK,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Querétaro,AL,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Querétaro,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Querétaro,AN,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,Querétaro,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Querétaro,AP,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Querétaro,AQ,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Querétaro,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,Querétaro,AS,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Querétaro,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Querétaro,AU,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Querétaro,AV,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Querétaro,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Querétaro,AX,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Querétaro,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Querétaro,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,Querétaro,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,Querétaro,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,Querétaro,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,Querétaro,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Querétaro,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,Querétaro,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,Querétaro,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,Querétaro,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+Bitacora descargas 2026.xlsx,Reyes,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Reyes,B,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Reyes,C,FLUJO DE DESCARGA AL 31 DE DIC-2025 | DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Reyes,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Reyes,E,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Reyes,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,Reyes,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Reyes,H,DIFERENCIA | DIARIA | (m3),59,38,21,32,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Reyes,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,int=31 | str=7
+Bitacora descargas 2026.xlsx,Reyes,J,DIFERENCIA | DIARIA | (m3),59,38,21,33,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Reyes,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,Reyes,L,FLUJO | DE | SALIDA | (m3),59,41,18,4,0,datetime=1 | float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Reyes,M,DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Reyes,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,42,17,4,0,int=35 | str=7
+Bitacora descargas 2026.xlsx,Reyes,O,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Reyes,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Reyes,Q,FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=32 | str=5
+Bitacora descargas 2026.xlsx,Reyes,R,DIFERENCIA | DIARIA | (m3),59,38,21,34,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Reyes,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,40,19,3,0,int=33 | str=7
+Bitacora descargas 2026.xlsx,Reyes,T,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Reyes,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Reyes,V,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Reyes,W,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Reyes,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Reyes,Y,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Reyes,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Reyes,AA,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Reyes,AB,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Reyes,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Reyes,AD,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Reyes,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Reyes,AF,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Reyes,AG,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Reyes,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Reyes,AI,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Reyes,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Reyes,AK,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Reyes,AL,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Reyes,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Reyes,AN,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Reyes,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Reyes,AP,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Reyes,AQ,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Reyes,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Reyes,AS,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Reyes,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Reyes,AU,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Reyes,AV,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Reyes,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Reyes,AX,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Reyes,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Reyes,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,Reyes,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,Reyes,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,Reyes,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,Reyes,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Reyes,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,Reyes,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,Reyes,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,Reyes,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+Bitacora descargas 2026.xlsx,Sabino,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Sabino,B,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Sabino,C,FLUJO DE DESCARGA AL 31 DE DIC-2025 | DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Sabino,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Sabino,E,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Sabino,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,Sabino,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Sabino,H,DIFERENCIA | DIARIA | (m3),59,38,21,32,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Sabino,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,int=31 | str=7
+Bitacora descargas 2026.xlsx,Sabino,J,DIFERENCIA | DIARIA | (m3),59,38,21,33,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Sabino,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,Sabino,L,FLUJO | DE | SALIDA | (m3),59,41,18,4,0,datetime=1 | float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Sabino,M,DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Sabino,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,42,17,4,0,int=35 | str=7
+Bitacora descargas 2026.xlsx,Sabino,O,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Sabino,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Sabino,Q,FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=32 | str=5
+Bitacora descargas 2026.xlsx,Sabino,R,DIFERENCIA | DIARIA | (m3),59,38,21,34,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Sabino,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,40,19,3,0,int=33 | str=7
+Bitacora descargas 2026.xlsx,Sabino,T,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Sabino,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Sabino,V,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Sabino,W,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Sabino,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Sabino,Y,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Sabino,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Sabino,AA,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Sabino,AB,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Sabino,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Sabino,AD,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Sabino,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Sabino,AF,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Sabino,AG,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Sabino,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Sabino,AI,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Sabino,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Sabino,AK,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Sabino,AL,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Sabino,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Sabino,AN,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Sabino,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Sabino,AP,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Sabino,AQ,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Sabino,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Sabino,AS,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Sabino,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Sabino,AU,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Sabino,AV,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Sabino,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Sabino,AX,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Sabino,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Sabino,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,Sabino,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,Sabino,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,Sabino,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,Sabino,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Sabino,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,Sabino,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,Sabino,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,Sabino,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+Bitacora descargas 2026.xlsx,SanCristobal,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,SanCristobal,B,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,SanCristobal,C,FLUJO DE DESCARGA AL 31 DE DIC-2025 | DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,SanCristobal,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,SanCristobal,E,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,SanCristobal,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,SanCristobal,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,SanCristobal,H,DIFERENCIA | DIARIA | (m3),59,38,21,32,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,SanCristobal,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,int=31 | str=7
+Bitacora descargas 2026.xlsx,SanCristobal,J,DIFERENCIA | DIARIA | (m3),59,38,21,33,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,SanCristobal,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,SanCristobal,L,FLUJO | DE | SALIDA | (m3),59,41,18,4,0,datetime=1 | float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,SanCristobal,M,DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,SanCristobal,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,42,17,4,0,int=35 | str=7
+Bitacora descargas 2026.xlsx,SanCristobal,O,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,SanCristobal,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,SanCristobal,Q,FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=32 | str=5
+Bitacora descargas 2026.xlsx,SanCristobal,R,DIFERENCIA | DIARIA | (m3),59,38,21,34,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,SanCristobal,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,40,19,3,0,int=33 | str=7
+Bitacora descargas 2026.xlsx,SanCristobal,T,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,SanCristobal,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,SanCristobal,V,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,SanCristobal,W,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,SanCristobal,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,SanCristobal,Y,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,SanCristobal,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,SanCristobal,AA,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,SanCristobal,AB,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,SanCristobal,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,SanCristobal,AD,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,SanCristobal,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,SanCristobal,AF,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,SanCristobal,AG,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,SanCristobal,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,SanCristobal,AI,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,SanCristobal,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,SanCristobal,AK,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,SanCristobal,AL,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,SanCristobal,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,SanCristobal,AN,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,SanCristobal,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,SanCristobal,AP,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,SanCristobal,AQ,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,SanCristobal,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,SanCristobal,AS,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,SanCristobal,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,SanCristobal,AU,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,SanCristobal,AV,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,SanCristobal,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,SanCristobal,AX,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,SanCristobal,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,SanCristobal,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,SanCristobal,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,SanCristobal,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,SanCristobal,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,SanCristobal,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,SanCristobal,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,SanCristobal,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,SanCristobal,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,SanCristobal,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+Bitacora descargas 2026.xlsx,SanJuanDelRio,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,SanJuanDelRio,B,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,SanJuanDelRio,C,FLUJO DE DESCARGA AL 31 DE DIC-2025 | DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,SanJuanDelRio,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,SanJuanDelRio,E,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,SanJuanDelRio,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,SanJuanDelRio,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,SanJuanDelRio,H,DIFERENCIA | DIARIA | (m3),59,38,21,32,0,int=34 | str=4
+Bitacora descargas 2026.xlsx,SanJuanDelRio,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,SanJuanDelRio,J,DIFERENCIA | DIARIA | (m3),59,38,21,33,0,float=2 | int=32 | str=4
+Bitacora descargas 2026.xlsx,SanJuanDelRio,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,SanJuanDelRio,L,FLUJO | DE | SALIDA | (m3),59,41,18,4,0,datetime=1 | float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,SanJuanDelRio,M,DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,SanJuanDelRio,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,42,17,4,0,float=1 | int=34 | str=7
+Bitacora descargas 2026.xlsx,SanJuanDelRio,O,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,SanJuanDelRio,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,SanJuanDelRio,Q,FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=32 | str=5
+Bitacora descargas 2026.xlsx,SanJuanDelRio,R,DIFERENCIA | DIARIA | (m3),59,38,21,34,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,SanJuanDelRio,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,40,19,3,0,float=1 | int=32 | str=7
+Bitacora descargas 2026.xlsx,SanJuanDelRio,T,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,SanJuanDelRio,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,SanJuanDelRio,V,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,SanJuanDelRio,W,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,SanJuanDelRio,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,SanJuanDelRio,Y,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,SanJuanDelRio,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AA,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AB,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AD,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AF,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AG,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AI,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AK,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AL,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AN,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AP,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AQ,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AS,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AU,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AV,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,float=1 | int=33 | str=7
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AX,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,float=1 | int=35 | str=4
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,SanJuanDelRio,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,SanJuanDelRio,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,SanJuanDelRio,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,SanJuanDelRio,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,SanJuanDelRio,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,SanJuanDelRio,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,SanJuanDelRio,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,SanJuanDelRio,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,SanJuanDelRio,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+Bitacora descargas 2026.xlsx,Tapachula,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Tapachula,B,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Tapachula,C,FLUJO DE DESCARGA AL 31 DE DIC-2025 | DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Tapachula,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Tapachula,E,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Tapachula,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,Tapachula,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Tapachula,H,DIFERENCIA | DIARIA | (m3),59,38,21,32,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Tapachula,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,int=31 | str=7
+Bitacora descargas 2026.xlsx,Tapachula,J,DIFERENCIA | DIARIA | (m3),59,38,21,33,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Tapachula,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,Tapachula,L,FLUJO | DE | SALIDA | (m3),59,41,18,4,0,datetime=1 | float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Tapachula,M,DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Tapachula,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,42,17,4,0,int=35 | str=7
+Bitacora descargas 2026.xlsx,Tapachula,O,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Tapachula,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Tapachula,Q,FLUJO | DE | SALIDA | (m3),59,34,25,3,0,datetime=1 | float=1 | int=27 | str=5
+Bitacora descargas 2026.xlsx,Tapachula,R,DIFERENCIA | DIARIA | (m3),59,33,26,34,5,float=1 | int=28 | str=4
+Bitacora descargas 2026.xlsx,Tapachula,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,35,24,3,0,int=28 | str=7
+Bitacora descargas 2026.xlsx,Tapachula,T,DIFERENCIA | DIARIA | (m3),59,34,25,35,5,int=30 | str=4
+Bitacora descargas 2026.xlsx,Tapachula,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Tapachula,V,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Tapachula,W,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Tapachula,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Tapachula,Y,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Tapachula,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Tapachula,AA,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Tapachula,AB,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Tapachula,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Tapachula,AD,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Tapachula,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Tapachula,AF,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Tapachula,AG,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Tapachula,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Tapachula,AI,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Tapachula,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Tapachula,AK,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Tapachula,AL,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Tapachula,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Tapachula,AN,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Tapachula,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Tapachula,AP,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Tapachula,AQ,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Tapachula,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Tapachula,AS,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Tapachula,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Tapachula,AU,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Tapachula,AV,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Tapachula,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Tapachula,AX,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Tapachula,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Tapachula,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,Tapachula,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,Tapachula,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,Tapachula,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,Tapachula,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Tapachula,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,Tapachula,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,Tapachula,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,Tapachula,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+Bitacora descargas 2026.xlsx,Toluca,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Toluca,B,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Toluca,C,FLUJO DE DESCARGA AL 31 DE DIC-2025 | DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Toluca,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Toluca,E,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Toluca,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,Toluca,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Toluca,H,DIFERENCIA | DIARIA | (m3),59,38,21,32,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Toluca,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,int=31 | str=7
+Bitacora descargas 2026.xlsx,Toluca,J,DIFERENCIA | DIARIA | (m3),59,38,21,33,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Toluca,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,Toluca,L,FLUJO | DE | SALIDA | (m3),59,41,18,4,0,datetime=1 | float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Toluca,M,DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Toluca,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,42,17,4,0,int=35 | str=7
+Bitacora descargas 2026.xlsx,Toluca,O,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Toluca,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Toluca,Q,FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=32 | str=5
+Bitacora descargas 2026.xlsx,Toluca,R,DIFERENCIA | DIARIA | (m3),59,38,21,34,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Toluca,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,40,19,3,0,int=33 | str=7
+Bitacora descargas 2026.xlsx,Toluca,T,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Toluca,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Toluca,V,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Toluca,W,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Toluca,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Toluca,Y,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Toluca,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Toluca,AA,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Toluca,AB,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,int=34 | str=5
+Bitacora descargas 2026.xlsx,Toluca,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Toluca,AD,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Toluca,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Toluca,AF,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Toluca,AG,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Toluca,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Toluca,AI,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Toluca,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Toluca,AK,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Toluca,AL,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Toluca,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Toluca,AN,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Toluca,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Toluca,AP,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Toluca,AQ,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Toluca,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Toluca,AS,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Toluca,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Toluca,AU,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Toluca,AV,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Toluca,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Toluca,AX,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Toluca,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Toluca,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,Toluca,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,Toluca,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,Toluca,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,Toluca,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Toluca,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,Toluca,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,Toluca,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,Toluca,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+Bitacora descargas 2026.xlsx,Tuxtla,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Tuxtla,B,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Tuxtla,C,FLUJO DE DESCARGA AL 31 DE DIC-2025 | DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Tuxtla,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Tuxtla,E,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Tuxtla,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,Tuxtla,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Tuxtla,H,DIFERENCIA | DIARIA | (m3),59,38,21,32,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Tuxtla,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,int=31 | str=7
+Bitacora descargas 2026.xlsx,Tuxtla,J,DIFERENCIA | DIARIA | (m3),59,38,21,33,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Tuxtla,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,Tuxtla,L,FLUJO | DE | SALIDA | (m3),59,41,18,4,0,datetime=1 | float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Tuxtla,M,DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Tuxtla,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,42,17,4,0,int=35 | str=7
+Bitacora descargas 2026.xlsx,Tuxtla,O,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Tuxtla,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Tuxtla,Q,FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=32 | str=5
+Bitacora descargas 2026.xlsx,Tuxtla,R,DIFERENCIA | DIARIA | (m3),59,38,21,34,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Tuxtla,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,40,19,3,0,int=33 | str=7
+Bitacora descargas 2026.xlsx,Tuxtla,T,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Tuxtla,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Tuxtla,V,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Tuxtla,W,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Tuxtla,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Tuxtla,Y,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Tuxtla,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Tuxtla,AA,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Tuxtla,AB,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,int=34 | str=5
+Bitacora descargas 2026.xlsx,Tuxtla,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Tuxtla,AD,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Tuxtla,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Tuxtla,AF,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Tuxtla,AG,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Tuxtla,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Tuxtla,AI,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Tuxtla,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Tuxtla,AK,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Tuxtla,AL,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Tuxtla,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Tuxtla,AN,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Tuxtla,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Tuxtla,AP,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Tuxtla,AQ,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Tuxtla,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Tuxtla,AS,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Tuxtla,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Tuxtla,AU,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Tuxtla,AV,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Tuxtla,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Tuxtla,AX,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Tuxtla,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Tuxtla,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,Tuxtla,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,Tuxtla,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,Tuxtla,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,Tuxtla,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Tuxtla,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,Tuxtla,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,Tuxtla,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,Tuxtla,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+Bitacora descargas 2026.xlsx,Veracruz,A,"ANTES DE INICIAR SU LLENADO, LEA LAS INSTRUCCIONES (unicamente llenar en caso de realizar descargas de agua)",59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Veracruz,B,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Veracruz,C,FLUJO DE DESCARGA AL 31 DE DIC-2025 | DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Veracruz,D,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Veracruz,E,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Veracruz,F,,59,28,31,0,0,int=28
+Bitacora descargas 2026.xlsx,Veracruz,G,EFLUENTE | RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,3,0,datetime=1 | float=1 | int=30 | str=7
+Bitacora descargas 2026.xlsx,Veracruz,H,DIFERENCIA | DIARIA | (m3),59,38,21,32,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Veracruz,I,RIEGO | FLUJO | DE | SALIDA | (m3),59,38,21,3,0,int=31 | str=7
+Bitacora descargas 2026.xlsx,Veracruz,J,DIFERENCIA | DIARIA | (m3),59,38,21,33,0,float=1 | int=33 | str=4
+Bitacora descargas 2026.xlsx,Veracruz,K,"COMISION NACIONAL DEL AGUA | ""REPORTE DE LECTURAS DE MEDIDOR""       10-A | ART. 225 DE LA LEY FEDERAL DE DERECHOS | m3/día",59,36,23,0,0,int=31 | str=5
+Bitacora descargas 2026.xlsx,Veracruz,L,FLUJO | DE | SALIDA | (m3),59,41,18,4,0,datetime=1 | float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Veracruz,M,DIFERENCIA | DIARIA | (m3),59,40,19,35,0,float=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Veracruz,N,RIEGO | FLUJO | DE | SALIDA | (m3),59,42,17,4,0,int=35 | str=7
+Bitacora descargas 2026.xlsx,Veracruz,O,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Veracruz,P,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Veracruz,Q,FLUJO | DE | SALIDA | (m3),59,34,25,3,0,datetime=1 | float=1 | int=27 | str=5
+Bitacora descargas 2026.xlsx,Veracruz,R,DIFERENCIA | DIARIA | (m3),59,33,26,34,5,float=1 | int=28 | str=4
+Bitacora descargas 2026.xlsx,Veracruz,S,RIEGO | FLUJO | DE | SALIDA | (m3),59,35,24,3,0,int=28 | str=7
+Bitacora descargas 2026.xlsx,Veracruz,T,DIFERENCIA | DIARIA | (m3),59,34,25,35,5,int=30 | str=4
+Bitacora descargas 2026.xlsx,Veracruz,U,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Veracruz,V,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Veracruz,W,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Veracruz,X,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Veracruz,Y,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Veracruz,Z,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Veracruz,AA,FLUJO | DE | SALIDA | (m3),59,38,21,4,0,datetime=1 | float=1 | int=31 | str=5
+Bitacora descargas 2026.xlsx,Veracruz,AB,DIFERENCIA | DIARIA | (m3),59,37,22,34,2,float=1 | int=31 | str=5
+Bitacora descargas 2026.xlsx,Veracruz,AC,RIEGO | FLUJO | DE | SALIDA | (m3),59,39,20,4,0,int=32 | str=7
+Bitacora descargas 2026.xlsx,Veracruz,AD,DIFERENCIA | DIARIA | (m3),59,37,22,35,2,int=33 | str=4
+Bitacora descargas 2026.xlsx,Veracruz,AE,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Veracruz,AF,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Veracruz,AG,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Veracruz,AH,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Veracruz,AI,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Veracruz,AJ,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Veracruz,AK,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Veracruz,AL,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Veracruz,AM,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Veracruz,AN,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Veracruz,AO,,59,31,28,0,0,int=30 | str=1
+Bitacora descargas 2026.xlsx,Veracruz,AP,FLUJO | DE | SALIDA | (m3),59,40,19,4,0,datetime=1 | float=1 | int=33 | str=5
+Bitacora descargas 2026.xlsx,Veracruz,AQ,DIFERENCIA | DIARIA | (m3),59,39,20,34,0,int=34 | str=5
+Bitacora descargas 2026.xlsx,Veracruz,AR,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,4,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Veracruz,AS,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,int=35 | str=4
+Bitacora descargas 2026.xlsx,Veracruz,AT,,59,31,28,0,0,int=31
+Bitacora descargas 2026.xlsx,Veracruz,AU,FLUJO | DE | SALIDA | (m3),59,40,19,3,0,datetime=1 | int=34 | str=5
+Bitacora descargas 2026.xlsx,Veracruz,AV,DIFERENCIA | DIARIA | (m3),59,39,20,35,0,float=1 | int=34 | str=4
+Bitacora descargas 2026.xlsx,Veracruz,AW,RIEGO | FLUJO | DE | SALIDA | (m3),59,41,18,3,0,int=34 | str=7
+Bitacora descargas 2026.xlsx,Veracruz,AX,DIFERENCIA | DIARIA | (m3),59,40,19,36,0,int=36 | str=4
+Bitacora descargas 2026.xlsx,Veracruz,AY,,59,30,29,0,0,int=30
+Bitacora descargas 2026.xlsx,Veracruz,AZ,FLUJO | DE | SALIDA | (m3),59,9,50,3,0,datetime=1 | int=3 | str=5
+Bitacora descargas 2026.xlsx,Veracruz,BA,DIFERENCIA | DIARIA | (m3),59,8,51,4,0,int=4 | str=4
+Bitacora descargas 2026.xlsx,Veracruz,BB,RIEGO | FLUJO | DE | SALIDA | (m3),59,10,49,3,0,int=3 | str=7
+Bitacora descargas 2026.xlsx,Veracruz,BC,DIFERENCIA | DIARIA | (m3),59,9,50,5,0,int=5 | str=4
+Bitacora descargas 2026.xlsx,Veracruz,BD,,59,32,27,0,0,int=31 | str=1
+Bitacora descargas 2026.xlsx,Veracruz,BE,FLUJO | DE | SALIDA | (m3),59,10,49,4,0,datetime=1 | int=4 | str=5
+Bitacora descargas 2026.xlsx,Veracruz,BF,DIFERENCIA | DIARIA | (m3),59,9,50,4,0,int=4 | str=5
+Bitacora descargas 2026.xlsx,Veracruz,BG,RIEGO | FLUJO | DE | SALIDA | (m3),59,14,45,4,0,int=4 | str=10
+Bitacora descargas 2026.xlsx,Veracruz,BH,DIFERENCIA | DIARIA | (m3),59,12,47,8,0,int=8 | str=4
+ReportingFactory Ene26 - Oct26.xlsx,TOTAL,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,TOTAL,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,TOTAL,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,TOTAL,D,[Agua_Descarga_PTAR_LITROS],11,11,0,10,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Altamira,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,Altamira,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Altamira,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Altamira,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Apizaco,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,Apizaco,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Apizaco,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Apizaco,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Cayaco,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,Cayaco,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Cayaco,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Cayaco,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Celaya,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,Celaya,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Celaya,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Celaya,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Cd. Victoria,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,Cd. Victoria,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Cd. Victoria,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Cd. Victoria,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Coatepec,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,Coatepec,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Coatepec,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Coatepec,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Cuautitlán,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,Cuautitlán,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Cuautitlán,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Cuautitlán,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Cuernavaca,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,Cuernavaca,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Cuernavaca,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Cuernavaca,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Ixtacomitán,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,Ixtacomitán,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Ixtacomitán,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Ixtacomitán,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,León,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,León,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,León,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,León,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Morelia,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,Morelia,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Morelia,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Morelia,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Ojuelos,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,Ojuelos,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Ojuelos,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Ojuelos,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Pacífico,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,Pacífico,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Pacífico,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Pacífico,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,PozaRica,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,PozaRica,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,PozaRica,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,PozaRica,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Querétaro,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,Querétaro,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Querétaro,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Querétaro,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Reyes,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,Reyes,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Reyes,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Reyes,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Sabino,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,Sabino,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Sabino,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Sabino,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,SanCristobal,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,SanCristobal,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,SanCristobal,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,SanCristobal,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,SanJuanDelRio,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,SanJuanDelRio,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,SanJuanDelRio,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,SanJuanDelRio,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Tapachula,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,Tapachula,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Tapachula,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Tapachula,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Toluca,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,Toluca,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Toluca,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Toluca,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Tuxtla,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,Tuxtla,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Tuxtla,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Tuxtla,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Veracruz,A,KOF DIM_TIME[NombreMes] | Enero | Febrero | Marzo | Abril | Mayo | Junio | Julio | Agosto | Septiembre | Octubre,11,11,0,0,0,str=11
+ReportingFactory Ene26 - Oct26.xlsx,Veracruz,B,KOF DIM_TIME[Month],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Veracruz,C,KOF DIM_TIME[Año],11,11,0,0,0,int=10 | str=1
+ReportingFactory Ene26 - Oct26.xlsx,Veracruz,D,[Agua_Descarga_PTAR],11,11,0,0,0,int=10 | str=1
